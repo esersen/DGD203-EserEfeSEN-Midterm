@@ -168,7 +168,7 @@ class JewelHeistGame
         }
         Console.ResetColor();
 
-        // HapisCeza
+        // HapisCezası
         int prisonYears = punishment;
 
         Console.ForegroundColor = ConsoleColor.Green;
