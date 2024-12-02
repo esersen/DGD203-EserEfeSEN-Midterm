@@ -1,0 +1,15 @@
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSEN-Midterm\DGD203 - MyMidterm\bin\Debug\net8.0\DGD203 - MyMidterm.exe
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSEN-Midterm\DGD203 - MyMidterm\bin\Debug\net8.0\DGD203 - MyMidterm.deps.json
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSEN-Midterm\DGD203 - MyMidterm\bin\Debug\net8.0\DGD203 - MyMidterm.runtimeconfig.json
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSEN-Midterm\DGD203 - MyMidterm\bin\Debug\net8.0\DGD203 - MyMidterm.dll
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSEN-Midterm\DGD203 - MyMidterm\bin\Debug\net8.0\DGD203 - MyMidterm.pdb
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSEN-Midterm\DGD203 - MyMidterm\obj\Debug\net8.0\DGD203 - MyMidterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSEN-Midterm\DGD203 - MyMidterm\obj\Debug\net8.0\DGD203 - MyMidterm.AssemblyInfoInputs.cache
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSEN-Midterm\DGD203 - MyMidterm\obj\Debug\net8.0\DGD203 - MyMidterm.AssemblyInfo.cs
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSEN-Midterm\DGD203 - MyMidterm\obj\Debug\net8.0\DGD203 - MyMidterm.csproj.CoreCompileInputs.cache
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSEN-Midterm\DGD203 - MyMidterm\obj\Debug\net8.0\DGD203 - MyMidterm.sourcelink.json
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSEN-Midterm\DGD203 - MyMidterm\obj\Debug\net8.0\DGD203 - MyMidterm.dll
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSEN-Midterm\DGD203 - MyMidterm\obj\Debug\net8.0\refint\DGD203 - MyMidterm.dll
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSEN-Midterm\DGD203 - MyMidterm\obj\Debug\net8.0\DGD203 - MyMidterm.pdb
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSEN-Midterm\DGD203 - MyMidterm\obj\Debug\net8.0\DGD203 - MyMidterm.genruntimeconfig.cache
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSEN-Midterm\DGD203 - MyMidterm\obj\Debug\net8.0\ref\DGD203 - MyMidterm.dll
