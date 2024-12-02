@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DGD203 - MyMidterm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+890d562bb7a0d3f1ced8425e03c3729f11091bc7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c7bd2a2dd069be5f0e5934c3ac225587beea0a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DGD203 - MyMidterm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DGD203 - MyMidterm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
