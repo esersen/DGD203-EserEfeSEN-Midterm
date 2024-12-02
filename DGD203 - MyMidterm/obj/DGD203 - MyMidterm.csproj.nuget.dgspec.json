@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSEN-Midterm\\DGD203 - MyMidterm\\DGD203 - MyMidterm.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSEN-Midterm\\DGD203 - MyMidterm\\DGD203 - MyMidterm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSEN-Midterm\\DGD203 - MyMidterm\\DGD203 - MyMidterm.csproj",
+        "projectName": "DGD203 - MyMidterm",
+        "projectPath": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSEN-Midterm\\DGD203 - MyMidterm\\DGD203 - MyMidterm.csproj",
+        "packagesPath": "C:\\Users\\ESERPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSEN-Midterm\\DGD203 - MyMidterm\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ESERPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
